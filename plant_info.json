@@ -1,0 +1,653 @@
+{
+  "African Violet (Saintpaulia ionantha)": {
+    "scientific_name": "Saintpaulia ionantha",
+    "family": "Gesneriaceae",
+    "native_region": "Eastern Africa (Tanzania, Kenya)",
+    "description": "A small flowering houseplant with velvety leaves and colorful blossoms that thrive indoors with minimal light.",
+    "care_difficulty": "Moderate",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Keep soil moist but not soggy",
+      "soil": "Well-draining African violet mix",
+      "fertilizer": "Every 2 weeks during growth"
+    },
+    "care_tips": [
+      "Avoid wetting the leaves while watering.",
+      "Rotate pot for even growth.",
+      "Use distilled or rainwater if possible."
+    ],
+    "toxicity": "Non-toxic to pets.",
+    "growth_time": "Slow to moderate growth indoors",
+    "diseases": {
+      "Crown Rot": "Caused by overwatering. Solution: Keep crown dry.",
+      "Powdery Mildew": "White film on leaves. Solution: Improve air circulation."
+    },
+    "notes": "Compact and blooms multiple times a year indoors."
+  },
+  "Aloe Vera": {
+
+    "scientific_name": "Aloe barbadensis miller",
+    "family": "Asphodelaceae",
+    "native_region": "Arabian Peninsula, Africa",
+    "description": "A succulent plant known for its thick, fleshy leaves filled with soothing gel used for skin care and healing.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Bright, indirect sunlight",
+      "water": "Once every 2-3 weeks; allow soil to dry",
+      "soil": "Well-draining sandy mix",
+      "fertilizer": "Once a month in spring and summer"
+    },
+    "care_tips": [
+      "Avoid overwatering; root rot is common.",
+      "Use terracotta pots for better drainage.",
+      "Trim dead leaves regularly."
+    ],
+    "toxicity": "Mildly toxic to pets if ingested.",
+    "growth_time": "Fast in warm, dry climates",
+    "diseases": {
+      "Root Rot": "Caused by overwatering. Solution: Repot and reduce watering.",
+      "Aphids": "Small insects on leaves. Solution: Neem oil spray."
+    },
+    "notes": "Air-purifying and medicinal properties."
+  },
+  "Begonia (Begonia spp.)": {
+    "scientific_name": "Begonia spp.",
+    "family": "Begoniaceae",
+    "native_region": "Tropical and subtropical regions",
+    "description": "A diverse plant genus with colorful leaves and flowers, often grown for ornamental indoor beauty.",
+    "care_difficulty": "Moderate",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Keep soil moist but not soggy",
+      "soil": "Light, well-draining potting mix",
+      "fertilizer": "Every 2 weeks during spring and summer"
+    },
+    "care_tips": [
+      "Avoid direct sunlight on leaves.",
+      "Use a humid environment for better growth.",
+      "Remove dead flowers to encourage blooming."
+    ],
+    "toxicity": "Toxic to pets if ingested.",
+    "growth_time": "Moderate growth rate in warm climates",
+    "diseases": {
+      "Powdery Mildew": "White powder on leaves. Solution: Improve airflow.",
+      "Root Rot": "Due to overwatering. Solution: Allow soil to dry."
+    },
+    "notes": "Great for decorative indoor spaces."
+  },
+  "Birds Nest Fern (Asplenium nidus)": {
+    "scientific_name": "Asplenium nidus",
+    "family": "Aspleniaceae",
+    "native_region": "Tropical Asia and Polynesia",
+    "description": "A lush fern with bright green fronds that grow in a rosette shape resembling a bird’s nest.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Low to medium indirect light",
+      "water": "Keep soil evenly moist, not soggy",
+      "soil": "Rich, well-draining soil",
+      "fertilizer": "Monthly during spring and summer"
+    },
+    "care_tips": [
+      "Avoid watering the center of the rosette.",
+      "Prefers high humidity and warm temperatures.",
+      "Clean leaves to prevent dust buildup."
+    ],
+    "toxicity": "Non-toxic to pets.",
+    "growth_time": "Slow to moderate growth indoors",
+    "diseases": {
+      "Leaf Spot": "Brown patches on leaves. Solution: Reduce misting on leaves.",
+      "Scale Insects": "Small bumps on fronds. Solution: Neem oil spray."
+    },
+    "notes": "Air purifier; ideal for bathrooms or shaded spaces."
+  },
+  "Boston Fern (Nephrolepis exaltata)": {
+    "scientific_name": "Nephrolepis exaltata",
+    "family": "Lomariopsidaceae",
+    "native_region": "Tropical regions worldwide",
+    "description": "A graceful fern with arching fronds, popular for hanging baskets and air purification.",
+    "care_difficulty": "Moderate",
+    "growth": {
+      "sunlight": "Indirect light or partial shade",
+      "water": "Keep soil moist, never dry",
+      "soil": "Peat-based, well-draining mix",
+      "fertilizer": "Monthly during growing season"
+    },
+    "care_tips": [
+      "Misting helps maintain humidity.",
+      "Trim old fronds regularly.",
+      "Avoid direct sunlight on leaves."
+    ],
+    "toxicity": "Non-toxic to pets.",
+    "growth_time": "Moderate growth rate in humid environments",
+    "diseases": {
+      "Frond Yellowing": "Due to dry air. Solution: Increase humidity.",
+      "Scale Insects": "Treat with neem oil or insecticidal soap."
+    },
+    "notes": "Excellent natural air purifier."
+  },
+  "Calathea": {
+    "scientific_name": "Calathea spp.",
+    "family": "Marantaceae",
+    "native_region": "Tropical Americas",
+    "description": "Known for its striking patterned leaves that close up at night like praying hands.",
+    "care_difficulty": "Moderate",
+    "growth": {
+      "sunlight": "Low to medium indirect light",
+      "water": "Keep soil evenly moist, not soggy",
+      "soil": "Rich, well-draining potting mix",
+      "fertilizer": "Monthly during active growth"
+    },
+    "care_tips": [
+      "Use filtered or distilled water.",
+      "Avoid cold drafts.",
+      "Wipe leaves gently to remove dust."
+    ],
+    "toxicity": "Non-toxic to pets.",
+    "growth_time": "Moderate growth rate in warm environments",
+    "diseases": {
+      "Leaf Curl": "Due to dry air. Solution: Increase humidity.",
+      "Fungal Spots": "Caused by overwatering. Solution: Improve airflow."
+    },
+    "notes": "Highly decorative and pet-safe plant."
+  },
+  "Cast Iron Plant (Aspidistra elatior)": {
+    "scientific_name": "Aspidistra elatior",
+    "family": "Asparagaceae",
+    "native_region": "Eastern Asia",
+    "description": "A hardy, low-maintenance plant with dark green leaves that tolerate low light and neglect.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Low to medium light",
+      "water": "Water when topsoil is dry",
+      "soil": "Well-drained loamy soil",
+      "fertilizer": "Monthly during growth"
+    },
+    "care_tips": [
+      "Tolerates low light and irregular watering.",
+      "Remove yellow or damaged leaves.",
+      "Use well-draining soil to prevent root rot."
+    ],
+    "toxicity": "Non-toxic to pets.",
+    "growth_time": "Slow to moderate growth",
+    "diseases": {
+      "Leaf Spot": "Brown or black spots. Solution: Remove leaves, apply fungicide.",
+      "Root Rot": "Overwatering issue. Solution: Improve drainage."
+    },
+    "notes": "Perfect for low-light corners and offices."
+  },
+  "Chinese Money Plant (Pilea peperomioides)": {
+    "scientific_name": "Pilea peperomioides",
+    "family": "Urticaceae",
+    "native_region": "Southern China",
+    "description": "A small, easy-to-grow houseplant with round, pancake-shaped leaves symbolizing prosperity.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Water weekly, allow soil to dry slightly",
+      "soil": "Well-draining potting mix",
+      "fertilizer": "Monthly during growing season"
+    },
+    "care_tips": [
+      "Rotate pot regularly for even growth.",
+      "Avoid water on leaves.",
+      "Remove dead leaves to encourage new growth."
+    ],
+    "toxicity": "Non-toxic to pets.",
+    "growth_time": "Moderate growth",
+    "diseases": {
+      "Root Rot": "Yellow leaves, mushy roots. Solution: Repot, reduce watering.",
+      "Leaf Curl": "Caused by pests or stress. Solution: Neem oil, proper care."
+    },
+    "notes": "Popular feng shui plant."
+  },
+  "Christmas Cactus (Schlumbergera bridgesii)": {
+    "scientific_name": "Schlumbergera bridgesii",
+    "family": "Cactaceae",
+    "native_region": "Brazil",
+    "description": "A popular holiday plant with segmented stems and vibrant flowers in winter, easy to grow indoors.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Water when soil is half dry",
+      "soil": "Sandy, well-draining soil",
+      "fertilizer": "Every 2-4 weeks during growth"
+    },
+    "care_tips": [
+      "Avoid overwatering to prevent root rot.",
+      "Promote blooming by giving cooler night temperatures in fall.",
+      "Remove dead stems to encourage new growth."
+    ],
+    "toxicity": "Non-toxic to pets.",
+    "growth_time": "Moderate growth, blooms annually",
+    "diseases": {
+      "Root Rot": "From overwatering. Solution: Repot with dry soil.",
+      "Botrytis": "Gray mold on stems. Solution: Improve ventilation, fungicide."
+    },
+    "notes": "Blooms during holiday season; ideal for indoor decoration."
+  },
+  "Dracaena": {
+    "scientific_name": "Dracaena spp.",
+    "family": "Asparagaceae",
+    "native_region": "Africa and Asia",
+    "description": "A tropical indoor plant with upright stems and sword-shaped leaves; purifies indoor air efficiently.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Indirect to low light",
+      "water": "Water every 1-2 weeks",
+      "soil": "Well-draining soil",
+      "fertilizer": "Monthly during growing season"
+    },
+    "care_tips": [
+      "Avoid fluoride in tap water to prevent leaf tip burn.",
+      "Rotate plant for even growth.",
+      "Trim yellow or brown leaves."
+    ],
+    "toxicity": "Mildly toxic to pets if ingested.",
+    "growth_time": "Moderate growth",
+    "diseases": {
+      "Leaf Spot": "Brown patches. Solution: Neem oil spray.",
+      "Root Rot": "Due to overwatering. Solution: Repot with dry soil."
+    },
+    "notes": "Air-purifying and low-maintenance plant."
+  },
+  "Elephant Ear (Alocasia spp.)": {
+    "scientific_name": "Alocasia spp.",
+    "family": "Araceae",
+    "native_region": "Tropical Asia and Eastern Australia",
+    "description": "A dramatic foliage plant with large, arrow-shaped leaves that create a tropical indoor effect.",
+    "care_difficulty": "Moderate",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Keep soil moist",
+      "soil": "Rich, well-draining soil",
+      "fertilizer": "Every 2 weeks during growing season"
+    },
+    "care_tips": [
+      "Provide high humidity for healthy leaves.",
+      "Avoid cold drafts and sudden temperature changes.",
+      "Wipe leaves to remove dust."
+    ],
+    "toxicity": "Toxic to pets if ingested.",
+    "growth_time": "Moderate to fast growth in warm, humid conditions",
+    "diseases": {
+      "Leaf Spot": "Dark lesions on leaves. Solution: Fungicide.",
+      "Root Rot": "Soggy soil issue. Solution: Improve drainage."
+    },
+    "notes": "Ideal as a statement indoor plant."
+  },
+  "English Ivy (Hedera helix)": {
+    "scientific_name": "Hedera helix",
+    "family": "Araliaceae",
+    "native_region": "Europe and Western Asia",
+    "description": "A trailing or climbing plant with glossy, lobed leaves; popular as a decorative indoor vine.",
+    "care_difficulty": "Moderate",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Keep soil slightly moist",
+      "soil": "Well-draining potting mix",
+      "fertilizer": "Every 2 weeks in summer"
+    },
+    "care_tips": [
+      "Prune regularly to maintain shape.",
+      "Check for spider mites and treat promptly.",
+      "Avoid overwatering to prevent root rot."
+    ],
+    "toxicity": "Mildly toxic to pets if ingested.",
+    "growth_time": "Moderate growth",
+    "diseases": {
+      "Spider Mites": "Causes leaf yellowing. Solution: Neem oil spray.",
+      "Leaf Spot": "Brown patches. Solution: Remove leaves, apply fungicide."
+    },
+    "notes": "Excellent for hanging baskets or trellises indoors."
+  },
+  "Hyacinth (Hyacinthus orientalis)": {
+    "scientific_name": "Hyacinthus orientalis",
+    "family": "Asparagaceae",
+    "native_region": "Eastern Mediterranean",
+    "description": "A fragrant spring-blooming bulb with dense clusters of colorful flowers; perfect for pots and gardens.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Full sun to partial shade",
+      "water": "Water during growth, reduce after flowering",
+      "soil": "Well-drained sandy soil",
+      "fertilizer": "Bulb fertilizer at planting"
+    },
+    "care_tips": [
+      "Ensure good drainage to prevent bulb rot.",
+      "Remove spent flowers to direct energy back to bulbs.",
+      "Plant bulbs in fall for spring blooms."
+    ],
+    "toxicity": "Mildly toxic to pets if ingested.",
+    "growth_time": "Fast growth during flowering season",
+    "diseases": {
+      "Gray Mold": "Fuzzy mold on flowers. Solution: Improve airflow, fungicide.",
+      "Basal Rot": "Bulb rot. Solution: Discard infected bulbs."
+    },
+    "notes": "Beautiful and fragrant spring indoor or garden plant."
+  },
+  "Jade plant (Crassula ovata)": {
+    "scientific_name": "Crassula ovata",
+    "family": "Crassulaceae",
+    "native_region": "South Africa",
+    "description": "A popular succulent with thick, glossy leaves; symbol of good luck and prosperity.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Bright, direct light",
+      "water": "Water deeply, allow soil to dry",
+      "soil": "Sandy, well-draining soil",
+      "fertilizer": "Monthly during growing season"
+    },
+    "care_tips": [
+      "Avoid overwatering to prevent root rot.",
+      "Use pots with good drainage.",
+      "Can be shaped or pruned for aesthetic growth."
+    ],
+    "toxicity": "Non-toxic to humans; mildly toxic to pets.",
+    "growth_time": "Slow to moderate growth",
+    "diseases": {
+      "Root Rot": "Due to overwatering. Solution: Let soil dry completely.",
+      "Mealybugs": "White cottony pests. Solution: Alcohol swab, neem oil."
+    },
+    "notes": "Easy-to-grow indoor succulent."
+  },
+  "Money Tree (Pachira aquatica)": {
+    "scientific_name": "Pachira aquatica",
+    "family": "Malvaceae",
+    "native_region": "Central and South America",
+    "description": "A braided-trunk indoor tree believed to bring good luck; thrives in bright, indirect light.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Water weekly, let soil dry slightly",
+      "soil": "Peat-based, well-draining soil",
+      "fertilizer": "Every 2 weeks in growing season"
+    },
+    "care_tips": [
+      "Rotate regularly for balanced growth.",
+      "Avoid waterlogging to prevent root rot.",
+      "Trim dead leaves for healthy growth."
+    ],
+    "toxicity": "Non-toxic to pets.",
+    "growth_time": "Moderate growth",
+    "diseases": {
+      "Root Rot": "Caused by soggy soil. Solution: Repot, less water.",
+      "Leaf Yellowing": "Overwatering. Solution: Adjust watering schedule."
+    },
+    "notes": "Indoor decorative and feng shui plant."
+  },
+  "Orchid": {
+    "scientific_name": "Orchidaceae spp.",
+    "family": "Orchidaceae",
+    "native_region": "Worldwide in tropical regions",
+    "description": "Elegant flowering plant with exotic blooms; requires careful watering and indirect light.",
+    "care_difficulty": "Moderate",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Water weekly, allow roots to dry",
+      "soil": "Bark-based orchid mix",
+      "fertilizer": "Orchid fertilizer every 2 weeks"
+    },
+    "care_tips": [
+      "Ensure good airflow to prevent fungal diseases.",
+      "Do not overwater; orchids like drying between watering.",
+      "Support flowers with stakes if needed."
+    ],
+    "toxicity": "Non-toxic to pets.",
+    "growth_time": "Moderate growth with seasonal blooms",
+    "diseases": {
+      "Root Rot": "Waterlogged roots. Solution: Use well-draining medium.",
+      "Black Rot": "Dark, mushy leaves. Solution: Remove infected parts, fungicide."
+    },
+    "notes": "Popular ornamental indoor plant."
+  },
+  "Parlor Palm (Chamaedorea elegans)": {
+    "scientific_name": "Chamaedorea elegans",
+    "family": "Arecaceae",
+    "native_region": "Southern Mexico and Guatemala",
+    "description": "A graceful, low-light palm perfect for indoor decoration and air purification.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Low to medium indirect light",
+      "water": "Water when topsoil is dry",
+      "soil": "Peat-based potting mix",
+      "fertilizer": "Monthly balanced fertilizer"
+    },
+    "care_tips": [
+      "Keep away from cold drafts.",
+      "Prune dead fronds to maintain shape.",
+      "Avoid overwatering to prevent root rot."
+    ],
+    "toxicity": "Non-toxic to pets.",
+    "growth_time": "Slow to moderate growth indoors",
+    "diseases": {
+      "Spider Mites": "Causes yellowing. Solution: Neem oil, increase humidity.",
+      "Root Rot": "Overwatering issue. Solution: Repot in well-draining soil."
+    },
+    "notes": "Easy-care indoor palm for low-light spaces."
+  },
+  "Peace lily": {
+    "scientific_name": "Spathiphyllum spp.",
+    "family": "Araceae",
+    "native_region": "Tropical Americas and Southeast Asia",
+    "description": "Popular indoor plant with glossy green leaves and white blooms; excellent air purifier.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Low to bright indirect light",
+      "water": "Keep soil evenly moist",
+      "soil": "Well-draining potting mix",
+      "fertilizer": "Monthly during growing season"
+    },
+    "care_tips": [
+      "Avoid overwatering to prevent yellow leaves.",
+      "Wipe leaves regularly to remove dust.",
+      "Provide occasional humidity for better flowering."
+    ],
+    "toxicity": "Toxic to pets if ingested.",
+    "growth_time": "Moderate growth indoors",
+    "diseases": {
+      "Yellow Leaves": "Overwatering. Solution: Adjust watering.",
+      "Fungal Leaf Spot": "Dark spots. Solution: Neem oil, remove infected leaves."
+    },
+    "notes": "Elegant, low-maintenance houseplant."
+  },
+  "Poinsettia (Euphorbia pulcherrima)": {
+    "scientific_name": "Euphorbia pulcherrima",
+    "family": "Euphorbiaceae",
+    "native_region": "Mexico",
+    "description": "Famous holiday plant with vibrant red bracts; easy to grow indoors with proper light and watering.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Keep soil moist but not soggy",
+      "soil": "Well-drained soil",
+      "fertilizer": "Every 2 weeks during growth"
+    },
+    "care_tips": [
+      "Avoid overwatering to prevent root rot.",
+      "Keep away from cold drafts.",
+      "Maintain consistent light for vibrant bracts."
+    ],
+    "toxicity": "Mildly toxic to pets if ingested.",
+    "growth_time": "Moderate growth, seasonal bloom",
+    "diseases": {
+      "Root Rot": "Caused by soggy soil. Solution: Improve drainage.",
+      "Whiteflies": "Sap-sucking insects. Solution: Insecticidal soap."
+    },
+    "notes": "Popular holiday decorative plant."
+  },
+  "Polka Dot Plant (Hypoestes phyllostachya)": {
+    "scientific_name": "Hypoestes phyllostachya",
+    "family": "Acanthaceae",
+    "native_region": "Madagascar",
+    "description": "Colorful foliage plant with speckled leaves; adds vibrant patterns indoors or in containers.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Water when soil is dry",
+      "soil": "Peat-rich soil",
+      "fertilizer": "Bi-weekly during growing season"
+    },
+    "care_tips": [
+      "Pinch stems to encourage bushy growth.",
+      "Avoid direct sun to prevent leaf burn.",
+      "Check for pests like aphids regularly."
+    ],
+    "toxicity": "Non-toxic to humans; mildly toxic to pets.",
+    "growth_time": "Fast growth during warm months",
+    "diseases": {
+      "Root Rot": "Caused by overwatering. Solution: Allow soil to dry.",
+      "Aphids": "Sticky leaves. Solution: Neem oil or insecticidal soap."
+    },
+    "notes": "Ideal for colorful indoor arrangements."
+  },
+  "Pothos (Ivy arum)": {
+    "scientific_name": "Epipremnum aureum",
+    "family": "Araceae",
+    "native_region": "Southeast Asia",
+    "description": "Very hardy trailing plant; perfect for hanging baskets and indoor décor, tolerates low light.",
+    "care_difficulty": "Very easy",
+    "growth": {
+      "sunlight": "Low to bright indirect light",
+      "water": "Water when topsoil dries",
+      "soil": "Well-drained potting soil",
+      "fertilizer": "Every 4-6 weeks"
+    },
+    "care_tips": [
+      "Prune regularly to control growth.",
+      "Supports propagation through cuttings.",
+      "Avoid overwatering to prevent root rot."
+    ],
+    "toxicity": "Toxic to pets if ingested.",
+    "growth_time": "Fast growth indoors",
+    "diseases": {
+      "Root Rot": "Due to overwatering. Solution: Let soil dry out.",
+      "Mealybugs": "White pests. Solution: Alcohol swab, neem oil spray."
+    },
+    "notes": "Excellent beginner indoor plant."
+  },
+  "Rubber Plant (Ficus elastica)": {
+    "scientific_name": "Ficus elastica",
+    "family": "Moraceae",
+    "native_region": "Southeast Asia",
+    "description": "Indoor tree with glossy, large leaves; low-maintenance and air-purifying.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Allow topsoil to dry before watering",
+      "soil": "Well-drained potting soil",
+      "fertilizer": "Monthly in growing season"
+    },
+    "care_tips": [
+      "Rotate plant for even leaf growth.",
+      "Wipe leaves to remove dust.",
+      "Trim lower leaves to maintain shape."
+    ],
+    "toxicity": "Mildly toxic to pets.",
+    "growth_time": "Moderate growth",
+    "diseases": {
+      "Leaf Drop": "Caused by sudden light changes. Solution: Keep stable light.",
+      "Mealybugs": "Solution: Neem oil or alcohol swab."
+    },
+    "notes": "Popular indoor tree for offices and homes."
+  },
+  "Schefflera": {
+    "scientific_name": "Schefflera spp.",
+    "family": "Araliaceae",
+    "native_region": "Taiwan, Hainan, Australia",
+    "description": "Also called umbrella plant; glossy leaves grow in umbrella-like clusters, very hardy indoors.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Water when topsoil is dry",
+      "soil": "Well-draining potting mix",
+      "fertilizer": "Monthly during spring and summer"
+    },
+    "care_tips": [
+      "Avoid overwatering to prevent root rot.",
+      "Prune regularly for shape and size.",
+      "Watch for spider mites and treat promptly."
+    ],
+    "toxicity": "Mildly toxic to pets.",
+    "growth_time": "Moderate growth",
+    "diseases": {
+      "Leaf Drop": "Caused by low light or overwatering. Solution: Improve light, adjust watering.",
+      "Spider Mites": "Causes speckled leaves. Solution: Neem oil spray."
+    },
+    "notes": "Perfect for indoor corners or office spaces."
+  },
+  "Snake plant (Sanseviera)": {
+    "scientific_name": "Sansevieria spp.",
+    "family": "Asparagaceae",
+    "native_region": "West Africa",
+    "description": "Nearly indestructible succulent with upright sword-shaped leaves; excellent air purifier for indoors.",
+    "care_difficulty": "Very easy",
+    "growth": {
+      "sunlight": "Low to bright indirect light",
+      "water": "Water sparingly; drought tolerant",
+      "soil": "Cactus/succulent mix",
+      "fertilizer": "Once every 2-3 months"
+    },
+    "care_tips": [
+      "Allow soil to dry completely between waterings.",
+      "Can survive in low-light rooms.",
+      "Remove damaged leaves for neat appearance."
+    ],
+    "toxicity": "Mildly toxic to pets.",
+    "growth_time": "Slow growth indoors",
+    "diseases": {
+      "Root Rot": "Overwatering problem. Solution: Use well-draining soil.",
+      "Mealybugs": "White fuzzy pests. Solution: Alcohol swab or neem oil."
+    },
+    "notes": "Hardy plant suitable for beginners."
+  },
+  "Tradescantia": {
+    "scientific_name": "Tradescantia spp.",
+    "family": "Commelinaceae",
+    "native_region": "Americas",
+    "description": "Colorful trailing plant with variegated leaves; grows fast and is easy to propagate.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Bright, indirect light",
+      "water": "Keep soil moist but not soggy",
+      "soil": "Well-draining, peat-based soil",
+      "fertilizer": "Every 2 weeks in growing season"
+    },
+    "care_tips": [
+      "Avoid direct sunlight to prevent leaf burn.",
+      "Pinch tips to encourage bushy growth.",
+      "Watch for aphids and treat if needed."
+    ],
+    "toxicity": "Non-toxic to humans; mildly toxic to pets.",
+    "growth_time": "Fast growth indoors",
+    "diseases": {
+      "Leaf Browning": "Caused by direct sunlight. Solution: Move to indirect light.",
+      "Aphids": "Sap-sucking insects. Solution: Insecticidal soap."
+    },
+    "notes": "Great for hanging baskets and colorful indoor display."
+  },
+  "Tulip": {
+    "scientific_name": "Tulipa spp.",
+    "family": "Liliaceae",
+    "native_region": "Central Asia and Turkey",
+    "description": "Popular spring-blooming bulb with elegant flowers; perfect for pots, gardens, and floral arrangements.",
+    "care_difficulty": "Easy",
+    "growth": {
+      "sunlight": "Full sun to partial shade",
+      "water": "Water during active growth; reduce after blooming",
+      "soil": "Well-draining sandy loam",
+      "fertilizer": "Bulb fertilizer before flowering"
+    },
+    "care_tips": [
+      "Plant bulbs in fall for spring blooms.",
+      "Ensure good drainage to prevent bulb rot.",
+      "Remove spent flowers to direct energy back to bulbs."
+    ],
+    "toxicity": "Mildly toxic to pets if ingested.",
+    "growth_time": "Fast growth in flowering season",
+    "diseases": {
+      "Tulip Fire": "Fungal disease causing spots. Solution: Remove infected bulbs.",
+      "Gray Mold": "Caused by humidity. Solution: Improve airflow."
+    },
+    "notes": "Classic spring ornamental bulb plant."
+  }
+}
