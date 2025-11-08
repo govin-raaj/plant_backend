@@ -4,7 +4,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from ultralytics import YOLO
 from PIL import Image
 import numpy as np
-import torch
 import json
 import os
 
@@ -20,12 +19,9 @@ app.add_middleware(
 )
 
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
-print(f"Using device: {device}")
-
 model_path = "./best.pt"
 model = YOLO(model_path)
-model.to(device)
+
 
 plant_info_path = "./plant_info.json"
 if os.path.exists(plant_info_path):
@@ -50,7 +46,7 @@ class_names = ['African Violet (Saintpaulia ionantha)', 'Aloe Vera', 'Begonia (B
 async def predict(file: UploadFile = File(...)):
     try:
         img = Image.open(file.file).convert("RGB")
-        results = model.predict(source=np.array(img), imgsz=224, device=device, verbose=False)
+        results = model.predict(source=np.array(img), imgsz=224, verbose=False)
 
         probs = results[0].probs.data.cpu().numpy()
         class_index = int(np.argmax(probs))
@@ -92,4 +88,5 @@ async def root():
             "/plants": "GET all plant info"
         }
     }
-"uvicorn fast_api:app --reload --host 0.0.0.0 --port 8000"
+
+"uvicorn main:app --reload --host 0.0.0.0 --port 8000"
